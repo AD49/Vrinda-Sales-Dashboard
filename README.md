@@ -24,17 +24,11 @@ This repository contains an end-to-end analysis of retail data from **Vrinda Sto
 ##  Tools Used
 
 - Microsoft Excel (Pivot Tables & Dashboarding)
-- Python (optional extension)
-- Jupyter Notebook (for further analysis)
 
 ##  Insights
 
 Key conclusions are outlined in the `INSIGHTS & FINAL CONCLUSION` sheet of the Excel file, helping guide strategic decisions for Vrinda Store.
 
-##  License
 
-This project is licensed under the MIT License.
 
----
 
-Would you like me to generate the `README.md` file for download or customize it further (e.g. with specific charts or Python analysis)?
